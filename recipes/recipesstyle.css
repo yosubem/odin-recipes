@@ -3,12 +3,20 @@ body{
     font-family: 'copperplate', 'Helvetica', 'Arial';
 }
 
+img{
+    border-radius: 8px;
+    height:auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 h1{
-    color: palevioletred;
     text-align: center;
+    color: palevioletred;
 }
 
 a{
     color:rgb(216, 140, 218);
 }
-
