@@ -1,6 +1,7 @@
 body{
     background-color: rgb(205, 231, 255);
-    font-family: 'copperplate', 'Helvetica', 'Arial';
+    color:gray;
+    font-family: 'Trebuchet MS', 'Verdana', 'Arial';
 }
 
 h1{
